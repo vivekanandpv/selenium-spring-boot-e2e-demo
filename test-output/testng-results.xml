@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-23T12:02:07 IST" name="Default Suite" finished-at="2024-09-23T12:02:28 IST" duration-ms="20567">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T12:02:07 IST" name="e2e-demo" finished-at="2024-09-23T12:02:28 IST" duration-ms="20567">
+      <class name="com.example.e2edemo.e2e.GoogleHomePageTests">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.example.e2edemo.e2e.GoogleHomePageTests@3cc2931c]" started-at="2024-09-23T12:02:07 IST" name="beforeClass" finished-at="2024-09-23T12:02:07 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.example.e2edemo.e2e.GoogleHomePageTests@3cc2931c]" started-at="2024-09-23T12:02:07 IST" name="beforeMethod" finished-at="2024-09-23T12:02:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatePage()[pri:0, instance:com.example.e2edemo.e2e.GoogleHomePageTests@3cc2931c]" started-at="2024-09-23T12:02:07 IST" name="validatePage" finished-at="2024-09-23T12:02:15 IST" duration-ms="7528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.example.e2edemo.e2e.GoogleHomePageTests@3cc2931c]" started-at="2024-09-23T12:02:15 IST" name="afterMethod" finished-at="2024-09-23T12:02:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="validatePage2()[pri:0, instance:com.example.e2edemo.e2e.GoogleHomePageTests@3cc2931c]" started-at="2024-09-23T12:02:15 IST" name="validatePage2" finished-at="2024-09-23T12:02:28 IST" duration-ms="13018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePage2 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.example.e2edemo.e2e.GoogleHomePageTests@3cc2931c]" started-at="2024-09-23T12:02:15 IST" name="beforeMethod" finished-at="2024-09-23T12:02:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.example.e2edemo.e2e.GoogleHomePageTests@3cc2931c]" started-at="2024-09-23T12:02:28 IST" name="afterMethod" finished-at="2024-09-23T12:02:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.example.e2edemo.e2e.GoogleHomePageTests@3cc2931c]" started-at="2024-09-23T12:02:28 IST" name="afterClass" finished-at="2024-09-23T12:02:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.example.e2edemo.e2e.GoogleHomePageTests -->
+    </test> <!-- e2e-demo -->
+  </suite> <!-- Default Suite -->
+</testng-results>
